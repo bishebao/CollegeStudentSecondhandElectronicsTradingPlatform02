@@ -1,0 +1,2 @@
+# CollegeStudentSecondhandElectronicsTradingPlatform02
+ 基于SpringBoot Vue大学生二手电子产品交易平台
